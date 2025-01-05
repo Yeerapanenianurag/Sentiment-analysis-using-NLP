@@ -1,4 +1,4 @@
-# Sentiment-analysis-using-NLP
+# Sentiment-analysis
 Disclaimer
 ⚠️ Important Note:
 Some parts of the code, including detailed explanations and additional implementation details, are not uploaded as files in this repository. Instead, they are included in the PDF documentation provided with this project. Please refer to the PDF file for a complete understanding of the system, including:
